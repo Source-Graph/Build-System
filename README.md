@@ -1,7 +1,8 @@
 # Build-System
 
-# Perfection Looks Like:
-https://jmmv.dev/2020/12/google-no-clean-builds.html
+# What Perfection Looks Like:: Bazel
+- https://jmmv.dev/2020/12/google-no-clean-builds.html
+- https://jmmv.dev/2019/12/bazel-strategies.html
 
 >And yet… in spite of all the abuse… clean builds are not necessary at Google to keep the machine running building. So, how is this possible? How is Google’s build system resilient to thousands of engineers modifying build files in a gigantic monorepo, most of them without truly understanding what goes under the hood?
 
