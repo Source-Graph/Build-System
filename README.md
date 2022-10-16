@@ -1,6 +1,6 @@
 # Build-System
 
-# What Perfection Looks Like:: Bazel
+# What Perfection Looks Like: Google's Bazel
 - https://jmmv.dev/2020/12/google-no-clean-builds.html
 - https://jmmv.dev/2019/12/bazel-strategies.html
 
